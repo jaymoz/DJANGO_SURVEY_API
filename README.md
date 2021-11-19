@@ -18,3 +18,8 @@ The result of the task:
 -  instructions for deploying the application (in docker or locally)
 -  API documentation
 
+## installation
+Clone this repo:
+```html
+   git clone 
+```
