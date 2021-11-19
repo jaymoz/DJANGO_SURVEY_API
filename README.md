@@ -45,67 +45,68 @@ run the server:
 ## API documentation
 Get user Token in:
 ```html
-   http POST  http://127.0.0.1:8000/api-token-auth/ username=“YOUR_USERNAME password=“YOUR_PASSWORD”
+   http POST  http://127.0.0.1:8000/api-token-auth/ username=“YOUR_USERNAME" password=“YOUR_PASSWORD”
 ```
-Create a survey:
+## Create a survey:
 - url 
 
-Update a survey:
+## Update a survey:
 - url 
 
-Delete a survey:
+## Delete a survey:
 - url
 
-View a survey:
+## View a survey:
 - url
 
-View all survey:
+## View all survey:
 - url
 
-View all current surveys:
+## View all current surveys:
 -url
 
-Create a question:
+## Create a question:
 - url 
 
-Update a question:
+## Update a question:
 - url 
 
-Delete a question:
+## Delete a question:
 - url
 
-View a question:
+## View a question:
 - url
 
-Create a choice:
+## Create a choice:
 - url
 
-View a choice:
+## View a choice:
 - url
 
-Update a choice:
+## Update a choice:
 - url
 
-Delete a choice:
+## Delete a choice:
 - url
 
-Create a response:
+## Create a response:
 - url
 
-View a response:
+## View a response:
 - url
 
-View all responses:
+## View all responses:
 - url
 
-Update a response:
+## Update a response:
 - url
 
-Delete a response:
+## Delete a response:
 - url
 
-Get all responses by user_id:
-  -
+## Get all responses by user_id:
+-
+  
 
 
 
