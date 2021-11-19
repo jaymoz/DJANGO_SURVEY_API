@@ -23,9 +23,10 @@ Clone this repo:
 ```html
    git clone https://github.com/jaymoz/DJANGO_SURVEY_API.git
 ```
-Open the files in a code editor and create a virtual environment to install dependencies:
+Open the files in a code editor and create,activate a virtual environment and install dependencies:
 ```html
    python -m venv Env
+   source Env/bin/activate
    pip install -r requirements.txt 
 ```
 Create database and make migrations:
