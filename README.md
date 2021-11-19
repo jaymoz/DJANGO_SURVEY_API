@@ -48,63 +48,102 @@ Get user Token in:
    http POST  http://127.0.0.1:8000/api-token-auth/ username=“YOUR_USERNAME" password=“YOUR_PASSWORD”
 ```
 Create a survey:
-- url: http://127.0.0.1:8000/api/create-survey
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 Update a survey:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 Delete a survey:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 View a survey:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 View all survey:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 View all current surveys:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 Create a question:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 Update a question:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 Delete a question:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 View a question:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 Create a choice:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 View a choice:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 Update a choice:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 Delete a choice:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 Create a response:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 View a response:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 View all responses:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 Update a response:
-- url: http://127.0.0.1:8000/api/
-
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
 Delete a response:
-- url: ``` html
-   http://127.0.0.1:8000/api/ 
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
   ```
 Get all responses by user_id:
-- url: http://127.0.0.1:8000/api/
-  
+- url: 
+``` html
+   http://127.0.0.1:8000/api/
+  ```
