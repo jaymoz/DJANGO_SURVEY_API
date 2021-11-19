@@ -72,7 +72,7 @@ View all surveys:
 ``` html
    http://127.0.0.1:8000/api/survey-list
   ```
-View all current surveys:
+View all active surveys:
 - url: 
 ``` html
    http://127.0.0.1:8000/api/active-survey
