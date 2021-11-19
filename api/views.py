@@ -8,7 +8,7 @@ from django.shortcuts import get_object_or_404
 from django.utils import timezone
 from django.views.decorators.csrf import csrf_exempt
 from .serializers import SurveyQuestionsSerializer,ResponseQuestionSerializer,SurveySerializer,ChoiceSerializer
-from .models import Survey, SurveyQuestions, UserResponse
+from .models import Survey, SurveyQuestions, UserResponse,Choice
 from django.core.exceptions import ObjectDoesNotExist
 from rest_framework.permissions import IsAdminUser, IsAuthenticated, AllowAny, BasePermission, SAFE_METHODS
 from rest_framework import generics
