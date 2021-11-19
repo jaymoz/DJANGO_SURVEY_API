@@ -50,100 +50,96 @@ Get user Token in:
 Create a survey:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/create-survey
   ```
 Update a survey:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/update-survey/[id]/
   ```
 Delete a survey:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/delete-survey/[id]/
   ```
 View a survey:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/survey-detail/[id]/
   ```
 View all surveys:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/survey-list
   ```
 View all current surveys:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/active-survey
   ```
 Create a question:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/create-question
   ```
 Update a question:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/update-question/[id]/
   ```
 Delete a question:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/delete-question/[id]/
   ```
 View a question:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/question-detail/[id]/
   ```
 Create a choice:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/create-choices
   ```
 View a choice:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/choice-detail/[id]/
   ```
 Update a choice:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/update-choice/[id]/
   ```
 Delete a choice:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/delete-choice/[id]/
   ```
 Create a response:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/response
   ```
 View a response:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/response-detail/[id]/
   ```
-View all responses:
-- url: 
-``` html
-   http://127.0.0.1:8000/api/
-  ```
+
 Update a response:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/user-response/[id]/
   ```
 Delete a response:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/delete-response/[id]/
   ```
 Get all responses by user_id:
 - url: 
 ``` html
-   http://127.0.0.1:8000/api/
+   http://127.0.0.1:8000/api/user-response/[id]/
   ```
