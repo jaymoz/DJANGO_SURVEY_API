@@ -67,7 +67,7 @@ View a survey:
 ``` html
    http://127.0.0.1:8000/api/
   ```
-View all survey:
+View all surveys:
 - url: 
 ``` html
    http://127.0.0.1:8000/api/
