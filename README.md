@@ -43,7 +43,7 @@ run the server:
 ```
 
 ## API documentation
-Get user Token in:
+Get user Token:
 ```html
    http POST  http://127.0.0.1:8000/api-token-auth/ username=“YOUR_USERNAME" password=“YOUR_PASSWORD”
 ```
